@@ -1,0 +1,8 @@
+{
+  "name": "Remix ระบบสำรวจความพึงพอใจ ศูนย์บริการสาธารณสุข สำนักอนามัย",
+  "description": "ระบบสำรวจความพึงพอใจ 4 กลุ่มเป้าหมาย สำหรับศูนย์บริการสาธารณสุข สำนักอนามัย พร้อมระบบวิเคราะห์สถิติและการเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
